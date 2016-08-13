@@ -8,6 +8,7 @@ Besides, the use of each file is explained by annotations.
 
 
 Detailed explaination:
+
 1. Book exchange website
   My group (Haoyan Zhang and I) had an idea of making a book exchange website. We designed the relational database with entity-relation diagram; realized the relational database system with PosgreSQL on Microsoft Azure; created the web front-end project by inserting SQL queries into Python code and designing HTML pages.
 
